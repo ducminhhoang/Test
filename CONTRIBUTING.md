@@ -34,9 +34,9 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho MLCW (Make Low-code
    git clone https://github.com/username/[repo-name].git
  
 2. Tạo một nhánh mới cho tính năng hoặc sửa lỗi bạn đang làm:
-
-  ```bash
-  git checkout -b feature/ten-tinh-nang
+   
+   ```bash
+   git checkout -b feature/ten-tinh-nang
 
 
 3. Thực hiện các thay đổi và commit thường xuyên với thông điệp rõ ràng:
