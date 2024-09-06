@@ -56,16 +56,16 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho MLCW (Make Low-code
 
 ## Tiêu chuẩn mã nguồn
 
-    Định dạng mã: Sử dụng 4 dấu cách cho mỗi lần thụt đầu dòng.
-    Tên biến và hàm: Sử dụng tiếng Anh và tuân theo quy tắc camelCase (ví dụ: myFunctionName).
-    Tài liệu: Thêm tài liệu vào các hàm và phương thức quan trọng.
-    Kiểm tra lỗi: Đảm bảo tất cả các đoạn mã đều được kiểm tra lỗi và xử lý ngoại lệ.
+  - Định dạng mã: Sử dụng 4 dấu cách cho mỗi lần thụt đầu dòng.
+  - Tên biến và hàm: Sử dụng tiếng Anh và tuân theo quy tắc camelCase (ví dụ: myFunctionName).
+  - Tài liệu: Thêm tài liệu vào các hàm và phương thức quan trọng.
+  - Kiểm tra lỗi: Đảm bảo tất cả các đoạn mã đều được kiểm tra lỗi và xử lý ngoại lệ.
 
 ## Kiểm thử và chất lượng mã
 
-    Chạy các bài kiểm thử tự động (nếu có) trước khi tạo Pull Request.
-    Đảm bảo mã của bạn không phá vỡ các bài kiểm thử hiện có.
-    Nếu bạn thêm tính năng mới, vui lòng thêm kiểm thử tương ứng.
+  - Chạy các bài kiểm thử tự động (nếu có) trước khi tạo Pull Request.
+  - Đảm bảo mã của bạn không phá vỡ các bài kiểm thử hiện có.
+  - Nếu bạn thêm tính năng mới, vui lòng thêm kiểm thử tương ứng.
 
 ## Thông tin liên lạc
 
