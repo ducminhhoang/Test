@@ -31,7 +31,8 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho MLCW (Make Low-code
 1. **Fork** dự án này và clone repository về máy tính của bạn.
    
    ```bash
- git clone https://github.com/username/[repo-name].git```
+   git clone https://github.com/username/[repo-name].git
+ 
 2. Tạo một nhánh mới cho tính năng hoặc sửa lỗi bạn đang làm:
 
   ```bash
