@@ -38,16 +38,15 @@ Cảm ơn bạn đã quan tâm đến việc đóng góp cho MLCW (Make Low-code
    ```bash
    git checkout -b feature/ten-tinh-nang
 
-
 3. Thực hiện các thay đổi và commit thường xuyên với thông điệp rõ ràng:
-
-  ```bash
-  git commit -m "[#issue-number] Mô tả ngắn gọn về thay đổi"
+   
+   ```bash
+   git commit -m "[#issue-number] Mô tả ngắn gọn về thay đổi"
 
 4. Push nhánh của bạn lên GitHub:
 
-  ```bash
-  git push origin feature/ten-tinh-nang
+   ```bash
+   git push origin feature/ten-tinh-nang
 
 5. Tạo Pull Request từ nhánh của bạn vào nhánh main của repository này:
         Giải thích rõ ràng mục đích của Pull Request.
